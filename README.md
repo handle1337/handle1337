@@ -1,6 +1,6 @@
 ## Hi there I'm Andres 👋
 
-- 🔭 I’m currently working on [Zeurel Proxy](https://github.com/handle1337/zeruel/)
+- 🔭 I’m currently working on [Zeruel Proxy](https://github.com/handle1337/zeruel/)
 - 📫 Reach me on [Twitter](https://x.com/handle1337) or discord `@handle1337`
 
 ### About me
